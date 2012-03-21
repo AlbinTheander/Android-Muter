@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Pressing the "Start Muting" button will set the music volume to 0 every 500ms until the "Stop Muting" button is pressed.</string>
+    <string name="app_name">Muter</string>
+    <string name="start_muting">Start Muting</string>
+    <string name="stop_muting">Stop Muting</string>
+
+</resources>
